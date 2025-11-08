@@ -13,3 +13,4 @@ let isloggedIn = 0;
 console.log(isloggedIn);
 let BooleanIsLoggedIn = Boolean(isloggedIn);
 console.log(BooleanIsLoggedIn);
+console.log(null>=0);
